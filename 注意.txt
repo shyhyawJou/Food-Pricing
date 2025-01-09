@@ -1,0 +1,3 @@
+# Include
+這是 python3.10 的 Include, 要用
+cp -r Include/* /usr/include/python3.10/
